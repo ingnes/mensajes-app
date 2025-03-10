@@ -18,3 +18,8 @@ php artisan migrate
 php artisan serve
 ```
 
+# 5- Compilar los componentes 
+```
+npm run dev
+```
+
